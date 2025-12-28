@@ -1,0 +1,7 @@
+{
+  "name": "Pavnnet's Birthday Wish",
+  "description": "A modern, interactive 3D birthday celebration website with smooth transitions, 3D animations, and a special gift reveal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
