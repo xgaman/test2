@@ -11,7 +11,7 @@ const APPRECIATION_CARDS: CardData[] = [
 ];
 
 // Cheerful background music URL
-const MUSIC_URL = "https://cdn.pixabay.com/audio/2022/03/10/audio_c8c8a73467.mp3"; 
+const MUSIC_URL = "bgg.mp3"; 
 
 const App: React.FC = () => {
   const [step, setStep] = useState<Step>(Step.Welcome);
